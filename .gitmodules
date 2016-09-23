@@ -1,0 +1,3 @@
+[submodule "TestRequired"]
+	path = submodules/TestRequired
+	url = https://github.com/CLDMV/TestRequired.git
